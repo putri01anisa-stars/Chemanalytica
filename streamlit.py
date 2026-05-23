@@ -1,4 +1,3 @@
-Konten dibuat oleh pengguna dan belum diverifikasi.
 import streamlit as st
 import math
 import numpy as np
