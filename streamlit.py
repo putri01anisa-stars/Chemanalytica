@@ -1,7 +1,6 @@
 import streamlit as st
 import math
 import numpy as np
-from plotly.subplots import make_subplots
 
 # ─────────────────────────────────────────────
 # PAGE CONFIG
